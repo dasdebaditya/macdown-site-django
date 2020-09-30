@@ -7,3 +7,5 @@ if you’re looking for the real MacDown repository.
 
 .. _Macdown: http://macdown.uranusjr.com
 .. _here: https://github.com/MacDownApp/macdown
+
+"logarith"
